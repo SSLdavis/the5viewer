@@ -1,0 +1,23 @@
+{
+  "name": "the5viewer",
+  "version": "1.0.0",
+  "description": "The 5 Viewer: a home for decentralized trends",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SSLdavis/the5viewer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SSLdavis/the5viewer/issues"
+  },
+  "homepage": "https://github.com/SSLdavis/the5viewer#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
